@@ -5,7 +5,7 @@ The shared 8-bit theme for Questkeeper and the campaign agent: design tokens, ba
 ## Install
 
 ```sh
-npm i github:rednil-rab/questkeeper-theme#v1.0.0
+npm i github:rednil-rab/questkeeper-theme#v1.0.1
 ```
 
 Always pin a tag. React 18 is a peer dependency. The package builds itself on install (`prepare`).

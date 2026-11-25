@@ -1,6 +1,6 @@
 {
   "name": "@questkeeper/theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared 8-bit theme (tokens, base CSS, React components) for Questkeeper and the campaign agent",
   "type": "module",
   "license": "UNLICENSED",
